@@ -31,7 +31,6 @@ for other operating systems, you may [build the source](#developer-info).
     - YM3812 (OPL2)
     - YMF262 (OPL3) with full 4-op support!
     - Y8950 (OPL with ADPCM)
-    - YMF825 (SD-1) with only 4-op support & i will use in my covers
   - square wave chips:
     - AY-3-8910/YM2149(F) used in several computers and game consoles
     - Commodore VIC used in the VIC-20
